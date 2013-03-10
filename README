@@ -4,11 +4,7 @@ FModel is a placeholder for a model mapping and validation framework for F#.
   * Almost no functionality at present, please ignore it
   * Planned to support the Pound web framework (https://github.com/danfinch/pound)
   
-License: Apache 2.0
-
-Copyrights:
-
-  * All code (c) 2012 Promitheia
+License: Public Domain
 
 Maintainers:
 
